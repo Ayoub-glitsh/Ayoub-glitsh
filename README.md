@@ -1,90 +1,18 @@
-# 👋 Hi, I’m Ayoub Aguezar
+# 💫 About Me:
+👋 Hi, I’m Ayoub Aguezar<br><br>Software and Data Engineering Student<br><br>I am a Software and Data Engineering student currently pursuing my studies at University of the People and ISTA Ouarzazate, while also training in Data Engineering at ALX Africa.<br><br>I have solid experience in Full Stack Web Development using PHP, JavaScript, Bootstrap, React.js, MySQL, and other technologies. I am expanding my expertise in data management, cloud computing, and data engineering workflows. Passionate about technology and innovation, my goal is to design intelligent, scalable, and secure solutions that merge software development with data-driven systems.
 
-### 🚀 About Me
-I am a passionate aspiring **Software Engineer** currently pursuing my studies at **ISTA** and **University of the People**.  
-I specialize in **full-stack development** and have a growing interest in **data engineering, AI, and cybersecurity**.  
 
-I am also a trainee at **ALX Africa**, where I am sharpening my skills in **data engineering** and practical software development, preparing to build scalable and efficient software solutions.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ayoub_aguazar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayoub-aguezar-a3b490338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ayoubaguezzar1@gmail.com) 
 
----
-
-### 🎓 Education
-- **ISTA** — Full-Stack Web Development  
-- **University of the People** — BSc in Computer Science (Software Engineering)  
-
----
-
-### 💻 Skills & Technologies
-
-#### Programming Languages
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash)
-
-#### Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vuedotjs)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat&logo=tailwind-css)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
-![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![MongoDB Compass](https://img.shields.io/badge/-MongoDB_Compass-black?style=flat)
-![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis)
-
-#### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=githubactions)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
-![XAMPP](https://img.shields.io/badge/-XAMPP-black?style=flat&logo=xampp)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
-
-#### Other Skills
-![Data Engineering](https://img.shields.io/badge/-Data_Engineering-black?style=flat)
-![AI](https://img.shields.io/badge/-AI-black?style=flat)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?style=flat)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ayoub-glitsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ayoub-glitsh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-glitsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ayoub-glitsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔹 Projects
-I like to create projects that demonstrate my skills in web development, database management, and data engineering.  
-- **Full-Stack Web Applications:** Built using React/Vue, Laravel, and Node.js  
-- **Data Engineering Projects:** Data pipelines and processing with Python, SQL, and MongoDB  
-- **AI & Cybersecurity Experiments:** Exploring small-scale AI applications and secure web solutions  
-
-*(Add your GitHub project links here for visibility.)*
-
----
-
-### 🌐 Connect with Me
-- [LinkedIn](#)  
-- [Portfolio Website](#)  
-- [Email](mailto:your.email@example.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
