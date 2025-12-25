@@ -6,7 +6,7 @@
 
 ### 🎨 Tech Stack Icons
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino,raspberrypi" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino,raspberrypi,php,laravel,react,dart,flutter,mysql,mongodb,angular" alt="Tech Stack Icons" />
 </p>
 
 
