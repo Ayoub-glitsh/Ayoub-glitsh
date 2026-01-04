@@ -3,7 +3,7 @@
 
 👋 Hi, I’m Ayoub Aguezar<br><br>Software and Data Engineering Student<br><br>I am a Software and Data Engineering student currently pursuing my studies at University of the People and ISTA Ouarzazate, while also training in Data Engineering at ALX Africa.<br><br>I have solid experience in Full Stack Web Development using PHP, JavaScript, Bootstrap, React.js, MySQL, and other technologies. I am expanding my expertise in data management, cloud computing, and data engineering workflows. Passionate about technology and innovation, my goal is to design intelligent, scalable, and secure solutions that merge software development with data-driven systems.
 
-
+   
 ### 🎨 Tech Stack Icons
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino,raspberrypi,php,laravel,react,dart,flutter,mysql,mongodb,angular" alt="Tech Stack Icons" />
