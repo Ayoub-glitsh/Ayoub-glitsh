@@ -548,6 +548,28 @@ class About extends Me {
 </div>
 
 
+++++++++
+
+
+
+<p align="center">
+  <a href="https://github.com/Ayoub-glitsh?tab=repositories"> 
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ayoub-glitsh&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Ayoub-glitsh's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/Ayoub-glitsh?tab=stars">
+    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ayoub-glitsh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  </a>
+</p>
+
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-glitsh&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/Ayoub-glitsh?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayoub-glitsh&theme=onestar&no-frame=true&column=4&row=2"  height="250px" alt="@Ayoub-glitsh's trophy stats"/>
+  </a>
+</div>
+
+
+
 
 
 
