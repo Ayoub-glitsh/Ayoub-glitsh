@@ -60,19 +60,18 @@ Passionate about technology, security, and innovation, my goal is to design inte
 
 <h3 align="left">Key Focus</h3>
 <ul align="left">
-  <li>AI Saas Platform development + AI Agent + Bittensor </li>
-  <li>Highly scalable and robust dapps based on EVM and Solana.</li>
-  <li>Blockchain interoperability using cross-chain bridges.</li>
-  <li>Trend AI Crypto Agent</li>
-  <li>Decentralized crypto trading platforms.</li>
+  <li>Development of AI SaaS platforms, AI agents, and data-driven applications. </li>
+  <li>Building highly scalable and robust web and mobile applications using Full Stack technologies (PHP, JavaScript, React, Angular, Vue, Laravel).</li>
+  <li>Designing AI-powered tools and security solutions.</li>
+  <li>Creating graphic and web designs as part of digital and AI projects.</li>
 </ul>
   
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in cross-chain functionalites.</li>
-  <li>Exploring advanced AI models.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-  <li>Developing extensive AI Experience</li>
+  <li>Deepening knowledge in data engineering workflows and cloud computing (AWS, Azure).</li>
+  <li>Exploring advanced AI models and automation tools (Zapier, Make).</li>
+  <li>Enhancing skills in cybersecurity research and secure application development.</li>
+  <li>Expanding practical experience in AI-driven software, data solutions, and scalable web & mobile applications.</li>
 </ul>
 <br />
 <br />
