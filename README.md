@@ -65,13 +65,12 @@ Passionate about technology, security, and innovation, my goal is to design inte
   <li>Designing AI-powered tools and security solutions.</li>
   <li>Creating graphic and web designs as part of digital and AI projects.</li>
 </ul>
-  
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening knowledge in data engineering workflows and cloud computing (AWS, Azure).</li>
   <li>Exploring advanced AI models and automation tools (Zapier, Make).</li>
   <li>Enhancing skills in cybersecurity research and secure application development.</li>
-  <li>Expanding practical experience in AI-driven software, data solutions, and scalable web & mobile applications.</li>
+  <li>Gaining experience in AI software, data solutions, and scalable apps.</li>
 </ul>
 <br />
 <br />
