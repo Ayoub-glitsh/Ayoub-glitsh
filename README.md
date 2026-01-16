@@ -1,16 +1,23 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
+</div>
+
+
+
+
 # 💫 About Me: 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 👋 Hi, I’m Ayoub Aguezar<br><br>Software and Data Engineering Student<br><br>I am a Software and Data Engineering student currently pursuing my studies at University of the People and ISTA Ouarzazate, while also training in Data Engineering at ALX Africa.<br><br>I have solid experience in Full Stack Web Development using PHP, JavaScript, Bootstrap, React.js, MySQL, and other technologies. I am expanding my expertise in data management, cloud computing, and data engineering workflows. Passionate about technology and innovation, my goal is to design intelligent, scalable, and secure solutions that merge software development with data-driven systems.
 
-   
+<!-- 
 ### 🎨 Tech Stack Icons
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino,raspberrypi,php,laravel,react,dart,flutter,mysql,mongodb,angular" alt="Tech Stack Icons" />
 </p>
+-->
 
-
-
+<!--
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ayoub_aguazar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayoub-aguezar-a3b490338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ayoubaguezzar1@gmail.com) 
 # 📊 GitHub Stats:
@@ -20,7 +27,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ayoub-glitsh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 
 
 
@@ -37,10 +44,6 @@
 
 
  <div align="center" width="50">
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
-</div>
 
 
 
