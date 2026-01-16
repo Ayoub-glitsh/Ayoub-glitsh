@@ -119,11 +119,11 @@ Passionate about technology, security, and innovation, my goal is to design inte
 ```dart
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "TypeScript", "Python", "Go", "Rust", "Java", "Ruby" },
+    "ProgramingLanguages" : { "TypeScript", "Python", "PHP", "JavaScript", "Java", "C" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
+    "Database" : { "MongoDB", "Sqlite", "MariaDB", "MySQL" , "Neo4j" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "Platforms" : { "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
