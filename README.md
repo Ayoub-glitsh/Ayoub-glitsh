@@ -54,7 +54,7 @@ Passionate about technology, security, and innovation, my goal is to design inte
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
@@ -69,9 +69,8 @@ Passionate about technology, security, and innovation, my goal is to design inte
 <ul align="left">
   
   <li>Deepening knowledge in data engineering workflows and cloud computing (AWS, Azure).</li>
-  <li>Exploring advanced AI models and automation tools (Zapier, Make).</li>
+  <li>Expanding practical experience in AI-driven software, data solutions, and scalable web & mobile applications.</li>
   <li>Enhancing skills in cybersecurity research and secure application development.</li>
-  <li align="left">Gaining experience in AI software, data solutions, and scalable apps.</li>
   
 </ul>
 <br />
