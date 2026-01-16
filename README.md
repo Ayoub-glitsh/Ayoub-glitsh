@@ -1,9 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
-</div> 
-
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I%27Am+a+Software+and+Data+Engineer;I%27Am+a+Research+Security+Analyst;I%27Am+a+Web+Designer+and+a+YouTuber;I+Have+Over+1+Year+of+Experience" alt="Typing SVG" />
+</div>
 
 # 💫 About Me: 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
