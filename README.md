@@ -67,10 +67,12 @@ Passionate about technology, security, and innovation, my goal is to design inte
 </ul>
 <h3 align="left">Current Learning</h3>
 <ul align="left">
+  
   <li>Deepening knowledge in data engineering workflows and cloud computing (AWS, Azure).</li>
   <li>Exploring advanced AI models and automation tools (Zapier, Make).</li>
   <li>Enhancing skills in cybersecurity research and secure application development.</li>
-  <li>Gaining experience in AI software, data solutions, and scalable apps.</li>
+  <li align="left">Gaining experience in AI software, data solutions, and scalable apps.</li>
+  
 </ul>
 <br />
 <br />
