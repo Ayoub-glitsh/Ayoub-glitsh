@@ -79,7 +79,7 @@ Passionate about technology, security, and innovation, my goal is to design inte
 <br />
 
 <p><strong>
-  Freelancing & Working on Superior Crypto & AI
+  Freelancing & Building Scalable AI, Web & Mobile Applications
   <br><br> 
   Vibing to : 🎧  
 </strong></p>
