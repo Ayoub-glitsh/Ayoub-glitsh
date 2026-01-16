@@ -5,7 +5,15 @@
 # 💫 About Me: 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-👋 Hi, I’m Ayoub Aguezar<br><br>Software and Data Engineering Student<br><br>I am a Software and Data Engineering student currently pursuing my studies at University of the People and ISTA Ouarzazate, while also training in Data Engineering at ALX Africa.<br><br>I have solid experience in Full Stack Web Development using PHP, JavaScript, Bootstrap, React.js, MySQL, and other technologies. I am expanding my expertise in data management, cloud computing, and data engineering workflows. Passionate about technology and innovation, my goal is to design intelligent, scalable, and secure solutions that merge software development with data-driven systems.
+👋 Hi, I’m Ayoub Aguezar
+
+Software and Data Engineering Student & Security Researcher
+
+I am a Software and Data Engineering student currently pursuing my studies at University of the People and ISTA Ouarzazate, while also training in Data Engineering and working as a Graphic Designer Trainer at ALX Africa.
+
+I have solid experience in Full Stack Web Development and technologies including C, C++, PHP, JavaScript, HTML/CSS, Tailwind CSS, Bootstrap, React.js, Angular, Vue.js, Laravel, MySQL, MongoDB, Neo4j, and others. I am also skilled with tools like Docker, Git, GitHub, Jenkins, Zapier, Make, Netlify, OVH, GoDaddy, and expanding my expertise in data management, cloud computing, cybersecurity, and data engineering workflows.
+
+Passionate about technology, security, and innovation, my goal is to design intelligent, scalable, and secure solutions that merge software development, cybersecurity practices, and data-driven systems.
 
 <!-- 
 ### 🎨 Tech Stack Icons
