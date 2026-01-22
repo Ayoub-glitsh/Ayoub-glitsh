@@ -646,6 +646,15 @@ class About extends Me {
       <br/>HackerRank
     </td>
   </tr>
+  <tr>
+    <td align="center">
+  <a href="https://www.kaggle.com/ouhssini">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="50"/>
+  </a>
+  <br/>Kaggle
+</td>
+
+  </tr>
 </table>
 
 
