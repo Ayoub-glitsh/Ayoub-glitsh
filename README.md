@@ -664,7 +664,7 @@ class About extends Me {
     </td>
 
 <td align="center">
-  <a href="https://gitlab.com/ouhssini">
+  <a href="https://gitlab.com/ayoubaguezzar1">
     <img src="https://skillicons.dev/icons?i=gitlab" width="50"/>
   </a>
   <br/>GitLab
