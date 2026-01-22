@@ -655,12 +655,13 @@ class About extends Me {
   </a>
   <br/>Kaggle
 </td>
+
 <td align="center">
-  <a href="https://slack.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slack.svg" width="50"/>
-  </a>
-  <br/>Slack
-</td>
+      <a href="https://slack.com">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slack.svg" width="50"/>
+      </a>
+      <br/>Slack
+    </td>
 
 <td align="center">
   <a href="https://gitlab.com/ouhssini">
@@ -668,6 +669,12 @@ class About extends Me {
   </a>
   <br/>GitLab
 </td>
+<!-- <td align="center">
+  <a href="">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="50"/>
+  </a>
+  <br/>Email
+</td> -->
 
 
   </tr>
