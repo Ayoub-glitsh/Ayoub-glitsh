@@ -671,7 +671,7 @@ class About extends Me {
 </td>
 
 <td align="center">
-  <a href="https://www.reddit.com/user/TON_USERNAME">
+  <a href="https://www.reddit.com/user/Ayoub-glitsh/">
     <img src="https://cdn.simpleicons.org/reddit/FF4500" width="50"/>
   </a>
   <br/>Reddit
