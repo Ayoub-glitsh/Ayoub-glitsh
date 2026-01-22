@@ -669,6 +669,15 @@ class About extends Me {
   </a>
   <br/>GitLab
 </td>
+
+<td align="center">
+  <a href="https://www.reddit.com/user/TON_USERNAME">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="50"/>
+  </a>
+  <br/>Reddit
+</td>
+
+
 <!-- <td align="center">
   <a href="">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="50"/>
