@@ -598,10 +598,10 @@ class About extends Me {
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://dev.to/ouhssini">
+      <a href="">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="22"/>
-        <br/>Dev.to
       </a>
+      <br/>Dev.to
     </td>
     <td align="center">
       <a href="https://twitter.com/a_ouhssini">
