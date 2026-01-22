@@ -659,7 +659,7 @@ class About extends Me {
 <td align="center">
       <a href="https://slack.com">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slack.svg" width="50"/>
-      </a>
+      </a> 
       <br/>Slack
     </td>
 
