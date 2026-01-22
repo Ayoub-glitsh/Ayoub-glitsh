@@ -599,51 +599,51 @@ class About extends Me {
   <tr>
     <td align="center">
       <a href="">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="22"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="50"/>
       </a>
       <br/>Dev.to
     </td>
     <td align="center">
-      <a href="https://twitter.com/a_ouhssini">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="22"/>
-        <br/>Twitter
+      <a href="">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="50"/>
       </a>
+      <br/>Twitter
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/ayoub-aguezar-a3b490338/">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="22"/>
-        <br/>LinkedIn
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50"/>
       </a>
+      <br/>LinkedIn
     </td>
     <td align="center">
-      <a href="https://stackoverflow.com/users/9619379">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="22"/>
-        <br/>Stack Overflow
+      <a href="">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="50"/>
       </a>
+      <br/>Stack Overflow
     </td>
     <td align="center">
-      <a href="https://fb.com/ahmed.ouhssini.1">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="22"/>
-        <br/>Facebook
+      <a href="">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50"/>
       </a>
+      <br/>Facebook
     </td>
     <td align="center">
-      <a href="https://instagram.com/ouhssini">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="22"/>
-        <br/>Instagram
+      <a href="">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50"/>
       </a>
+      <br/>Instagram
     </td>
     <td align="center">
-      <a href="https://www.behance.net/ouhssini">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="22"/>
-        <br/>Behance
+      <a href="">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="50"/>
       </a>
+      <br/>Behance
     </td>
     <td align="center">
-      <a href="https://wi">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="22"/>
-        <br/>HackerRank
+      <a href="">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="50"/>
       </a>
+      <br/>HackerRank
     </td>
   </tr>
 </table>
