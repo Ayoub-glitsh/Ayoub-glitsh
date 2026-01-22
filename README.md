@@ -610,7 +610,7 @@ class About extends Me {
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/ouhssini">
+      <a href="https://www.linkedin.com/in/ayoub-aguezar-a3b490338/">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="22"/>
         <br/>LinkedIn
       </a>
@@ -640,7 +640,7 @@ class About extends Me {
       </a>
     </td>
     <td align="center">
-      <a href="https://www.hackerrank.com/ouhssini">
+      <a href="https://wi">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="22"/>
         <br/>HackerRank
       </a>
