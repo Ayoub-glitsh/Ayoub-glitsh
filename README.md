@@ -646,6 +646,8 @@ class About extends Me {
       <br/>HackerRank
     </td>
   </tr>
+
+  
   <tr>
     <td align="center">
   <a href="https://www.kaggle.com/ouhssini">
@@ -653,6 +655,20 @@ class About extends Me {
   </a>
   <br/>Kaggle
 </td>
+<td align="center">
+  <a href="https://slack.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slack.svg" width="50"/>
+  </a>
+  <br/>Slack
+</td>
+
+<td align="center">
+  <a href="https://gitlab.com/ouhssini">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="50"/>
+  </a>
+  <br/>GitLab
+</td>
+
 
   </tr>
 </table>
