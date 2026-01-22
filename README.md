@@ -640,7 +640,7 @@ class About extends Me {
       <br/>Behance
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://www.hackerrank.com/profile/ayoub_aguezar_d1">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="50"/>
       </a>
       <br/>HackerRank
