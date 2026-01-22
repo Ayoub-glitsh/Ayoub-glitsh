@@ -634,7 +634,7 @@ class About extends Me {
       <br/>Instagram
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://www.behance.net/ayoubaguezar">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="50"/>
       </a>
       <br/>Behance
