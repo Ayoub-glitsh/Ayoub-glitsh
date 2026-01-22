@@ -593,19 +593,60 @@ class About extends Me {
 -->
 
 
+<h3 align="center">🌐 Connect with me</h3>
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ouhssini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ouhssini" height="30" width="40" /></a>
-<a href="https://twitter.com/a_ouhssini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_ouhssini" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ouhssini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ouhssini" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9619379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9619379" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.ouhssini.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.ouhssini.1" height="30" width="40" /></a>
-<a href="https://instagram.com/ouhssini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ouhssini" height="30" width="40" /></a>
-<a href="https://www.behance.net/ouhssini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ouhssini" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ouhssini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ouhssini" height="30" width="40" /></a>
-</p> -->
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://dev.to/ouhssini">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="22"/>
+        <br/>Dev.to
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/a_ouhssini">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="22"/>
+        <br/>Twitter
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/ouhssini">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="22"/>
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/9619379">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="22"/>
+        <br/>Stack Overflow
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://fb.com/ahmed.ouhssini.1">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="22"/>
+        <br/>Facebook
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/ouhssini">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="22"/>
+        <br/>Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.behance.net/ouhssini">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="22"/>
+        <br/>Behance
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/ouhssini">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="22"/>
+        <br/>HackerRank
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
