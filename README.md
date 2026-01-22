@@ -650,7 +650,7 @@ class About extends Me {
   
   <tr>
     <td align="center">
-  <a href="https://www.kaggle.com/ouhssini">
+  <a href="https://www.kaggle.com/ayoubglitsh">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="50"/>
   </a>
   <br/>Kaggle
