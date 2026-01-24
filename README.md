@@ -606,7 +606,7 @@ class About extends Me {
       <br/>Dev.to
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://x.com/AGlitsh">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="50"/>
       </a>
       <br/>Twitter
