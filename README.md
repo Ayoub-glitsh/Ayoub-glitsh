@@ -630,7 +630,7 @@ class About extends Me {
       <br/>Facebook
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://www.instagram.com/_do_not_disturb_mee/">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50"/>
       </a>
       <br/>Instagram
