@@ -600,7 +600,7 @@ class About extends Me {
 <table align="center">
   <tr>
     <td align="center">
-      <a href="">
+      <a href="https://dev.to/ayoub_aguezar_dev_cbaabc8">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="50"/>
       </a>
       <br/>Dev.to
