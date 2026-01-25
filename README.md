@@ -695,7 +695,7 @@ class About extends Me {
 <h1 align="center">Monk Mode Activated</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+  <img src="assets/1013872934844019706.jpg"
        alt="Monk Mode Focus"
        width="600">
 </p>
