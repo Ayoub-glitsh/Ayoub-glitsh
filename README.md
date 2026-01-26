@@ -594,7 +594,7 @@ class About extends Me {
 
 -->
 
-
+<!--
 <h1 align="center">🌐 Connect me in </h1>
 
 <table align="center">
