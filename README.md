@@ -692,14 +692,14 @@ class About extends Me {
 </table>
 
 
-<h1 align="center">Monk Mode Activated</h1>
+<!-- <h1 align="center">Monk Mode Activated</h1>
 
 <p align="center">
   <img src="assets/1013872934844019706.jpg"
        alt="Monk Mode Focus"
        width="600">
 </p>
-
+ -->
 
 
 
