@@ -1,5 +1,7 @@
 
 
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I%27Am+a+Software+and+Data+Engineer;I%27Am+a+Research+Security+Analyst;I%27Am+a+Web+Designer+and+a+YouTuber;I+Have+Over+1+Year+of+Experience" alt="Typing SVG" />
 </div> 
