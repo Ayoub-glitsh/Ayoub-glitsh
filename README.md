@@ -705,3 +705,23 @@ class About extends Me {
 
 
 
+
+
+
+
+
+## 🌍 Open Source Contributions
+
+| Project | Contribution Type | Description | Status | Link |
+|--------|-------------------|-------------|--------|------|
+| **TEAMMATES** | Documentation & Maintenance | Migrated documentation to **MarkBind v6**, verified Vue 3 compatibility, improved documentation structure and build process | ✅ Completed | https://github.com/TEAMMATES/teammates/pull/XXXXX |
+| **roc-streaming (roc-toolkit)** | Debug & Technical Analysis | Investigated an issue related to the **multitrack packetizer**, contributed to discussions about automatic packet size calculation | 🔄 In Progress | https://github.com/roc-streaming/roc-toolkit/issues/821 |
+| **agentic_security** | Frontend & UI | Migrated UI to **Tailwind CSS v4**, updated CDN links, improved visual consistency | 🔄 In Progress | https://github.com/msoedov/agentic_security/pull/XXX |
+
+### 🧠 Skills Applied
+- Open Source Collaboration  
+- Debugging & Problem Solving  
+- Technical Documentation  
+- Frontend Modernization (Tailwind CSS)
+
+
