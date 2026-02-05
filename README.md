@@ -717,7 +717,7 @@ class About extends Me {
 
 | Project | Contribution Type | Description | Status | Link |
 |--------|-------------------|-------------|--------|------|
-| <div align="center"><img src="assets/" width="20" alt="GitHub"/><br/><strong>TEAMMATES</strong></div> | Documentation & Maintenance | Migrated documentation to **MarkBind v6**, verified Vue 3 compatibility, improved documentation structure and build process | ✅ Completed | [View Pull Request](https://github.com/TEAMMATES/teammates/pull/XXXXX) |
+| <div align="center"><img src="assets/7374810.svg" width="50" alt="GitHub"/><br/><strong>TEAMMATES</strong></div> | Documentation & Maintenance | Migrated documentation to **MarkBind v6**, verified Vue 3 compatibility, improved documentation structure and build process | ✅ Completed | [View Pull Request](https://github.com/TEAMMATES/teammates/pull/XXXXX) |
 | <div align="center"><img src="https://cdn.simpleicons.org/audiomack/000000" width="20" alt="Audio"/><br/><strong>roc-streaming</strong><br/><small>(roc-toolkit)</small></div> | Debug & Technical Analysis | Investigated an issue related to the **multitrack packetizer**, contributed to discussions about automatic packet size calculation | 🔄 In Progress | [View Issue](https://github.com/roc-streaming/roc-toolkit/issues/821) |
 | <div align="center"><img src="https://cdn.simpleicons.org/securityscorecard/000000" width="20" alt="Security"/><br/><strong>agentic_security</strong></div> | Frontend & UI | Migrated UI to **Tailwind CSS v4**, updated CDN links, improved visual consistency | 🔄 In Progress | [View Pull Request](https://github.com/msoedov/agentic_security/pull/XXX) |
 
