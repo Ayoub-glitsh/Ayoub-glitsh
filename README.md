@@ -718,9 +718,4 @@ class About extends Me {
 | <img src="https://cdn.simpleicons.org/audiomack/000000" width="16" height="16" alt="Audio"/> **roc-streaming (roc-toolkit)** | Debug & Technical Analysis | Investigated an issue related to the **multitrack packetizer**, contributed to discussions about automatic packet size calculation | 🔄 In Progress | [View Issue](https://github.com/roc-streaming/roc-toolkit/issues/821) |
 | <img src="https://cdn.simpleicons.org/securityscorecard/000000" width="16" height="16" alt="Security"/> **agentic_security** | Frontend & UI | Migrated UI to **Tailwind CSS v4**, updated CDN links, improved visual consistency | 🔄 In Progress | [View Pull Request](https://github.com/msoedov/agentic_security/pull/XXX) |
 
-### 🧠 Skills Applied
-- Open Source Collaboration  
-- Debugging & Problem Solving  
-- Technical Documentation  
-- Frontend Modernization (Tailwind CSS)
 
