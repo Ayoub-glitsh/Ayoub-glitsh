@@ -858,7 +858,7 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
+               <a href="https://graphacademy.neo4j.com/c/3c767462-8f88-41ea-b7eb-38e3b6d23351/">
                 <img src="docs/assets/img/codingame-certificate-cpp.jpeg" width="220px" /></a></td>
             </tr>
             <tr />
