@@ -771,9 +771,8 @@ class About extends Me {
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
                 <a href="https://graphacademy.neo4j.com/c/3c767462-8f88-41ea-b7eb-38e3b6d23351/" target="_blank">
-      <strong>Neo4j Certified Professional</strong>
-    </a><br/>
-    Awarded by <strong>Neo4j GraphAcademy</strong> for successfully completing the Neo4j certification program.
+      <strong>Neo4j Certified Professional</strong>,
+    </a>, awarded by <strong>Neo4j GraphAcademy</strong> for successfully completing the Neo4j certification program.
                </td>
             </tr>
             <tr />
@@ -814,13 +813,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
-                <img src="docs/assets/img/codingame-certificate-python3.jpeg" width="220px" /></a></td>
+               <a href="https://graphacademy.neo4j.com/c/8ee9edbf-376b-484e-a1a4-32113eda745e/">
+                <img src="certificatin images/Graph Data Science Certification.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw"><strong>Python certificate</strong></a>, awarded for completing an Python challenge.
+                  <a href="https://graphacademy.neo4j.com/c/8ee9edbf-376b-484e-a1a4-32113eda745e/" target="_blank">
+      <strong>Graph Data Science Certification</strong>
+    </a>, awarded by <strong>Neo4j GraphAcademy</strong> for completing the Graph Data Science certification program.
                </td>
             </tr>
             <tr />
@@ -835,7 +836,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                  <a href="https://graphacademy.neo4j.com/c/8ee9edbf-376b-484e-a1a4-32113eda745e/">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
