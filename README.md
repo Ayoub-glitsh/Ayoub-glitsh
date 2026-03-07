@@ -862,14 +862,14 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://graphacademy.neo4j.com/c/3c767462-8f88-41ea-b7eb-38e3b6d23351/">
-                <img src="docs/assets/img/codingame-certificate-cpp.jpeg" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing">
+                <img src="certificatin images/Scrum Fundamentals Certified.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
-               <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ"><strong>C++ certificate</strong></a>, awarded for completing an C++ challenge.
-               </td>
+               <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing" target="_blank">
+      <strong>Scrum Fundamentals Certified </strong>
+    </a>, awarded by <strong>SCRUMstudy</strong> for demonstrating foundational knowledge of Scrum methodology and Agile practices.
             </tr>
             <tr />
             <tr>
@@ -883,7 +883,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
+                  <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
