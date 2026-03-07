@@ -764,7 +764,7 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+               <a href="https://graphacademy.neo4j.com/c/3c767462-8f88-41ea-b7eb-38e3b6d23351/">
                 <img src="certificatin images/Certified Professional Neo4j.png" width="220px" /></a></td>
             </tr>
             <tr />
