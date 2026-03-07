@@ -881,9 +881,9 @@ class About extends Me {
                <td align="center">
                   <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td> 
