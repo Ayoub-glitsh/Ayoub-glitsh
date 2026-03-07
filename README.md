@@ -775,7 +775,7 @@ class About extends Me {
             </tr>
             <tr />
             <tr>
-               <td align="center">
+               <!-- <td align="center">
                   <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
@@ -783,17 +783,17 @@ class About extends Me {
                         <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
-               </td>
+               </td> -->
                <td align="center">
                   <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./certification icons/icon-pdf-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
-               <td align="center">
+               <!-- <td align="center">
                   <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
@@ -801,7 +801,7 @@ class About extends Me {
                         <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
-               </td>
+               </td> -->
             </tr>
          </table>
       </td>
@@ -822,7 +822,7 @@ class About extends Me {
             </tr>
             <tr />
             <tr>
-               <td align="center">
+               <!-- <td align="center">
                   <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
@@ -830,17 +830,17 @@ class About extends Me {
                         <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
-               </td>
+               </td> -->
                <td align="center">
                   <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
-               <td align="center">
+               <!-- <td align="center">
                   <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
@@ -848,7 +848,7 @@ class About extends Me {
                         <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
-               </td>
+               </td> -->
             </tr>
          </table>
       </td>
