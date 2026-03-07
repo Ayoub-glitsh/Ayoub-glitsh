@@ -869,7 +869,7 @@ class About extends Me {
             </tr>
             <tr />
             <tr>
-               <td align="center">
+               <!-- <td align="center">
                   <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
@@ -877,7 +877,7 @@ class About extends Me {
                         <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
-               </td>
+               </td> -->
                <td align="center">
                   <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
                      <picture>
@@ -887,7 +887,7 @@ class About extends Me {
                      </picture>
                   </a>
                </td>
-               <td align="center">
+               <!-- <td align="center">
                   <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
@@ -895,7 +895,7 @@ class About extends Me {
                         <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
-               </td>
+               </td> -->
             </tr>
          </table>
       </td>
