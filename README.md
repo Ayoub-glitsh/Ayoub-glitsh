@@ -862,19 +862,21 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing">
-                <img src="certificatin images/Scrum Fundamentals Certified.png" width="220px" /></a></td>
+               <a href="https://graphacademy.neo4j.com/c/8ee9edbf-376b-484e-a1a4-32113eda745e/">
+                <img src="certificatin images/Graph Data Science Certification.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
-               <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing" target="_blank">
-      <strong>Scrum Fundamentals Certified </strong>
-    </a>, awarded by <strong>SCRUMstudy</strong> for demonstrating foundational knowledge of Scrum methodology and Agile practices.
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                  <a href="https://graphacademy.neo4j.com/c/8ee9edbf-376b-484e-a1a4-32113eda745e/" target="_blank">
+      <strong>Graph Data Science Certification</strong>
+    </a>, awarded by <strong>Neo4j GraphAcademy</strong> for completing the Graph Data Science certification program.
+               </td>
             </tr>
             <tr />
             <tr>
                <!-- <td align="center">
-                  <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
@@ -883,16 +885,16 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing">
+                  <a href="https://graphacademy.neo4j.com/c/8ee9edbf-376b-484e-a1a4-32113eda745e/">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
                         <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
-               </td> 
+               </td>
                <!-- <td align="center">
-                  <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
@@ -904,6 +906,7 @@ class About extends Me {
          </table>
       </td>
       <!-- end item -->
+      
    </tr>
 </table>
 
