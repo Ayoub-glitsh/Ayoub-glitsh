@@ -765,7 +765,7 @@ class About extends Me {
             <tr>
                <td colspan="4">
                <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
-                <img src="docs/assets/img/codingame-certificate-ai.jpeg" width="220px" /></a></td>
+                <img src="certificatin images/Certified Professional Neo4j.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
