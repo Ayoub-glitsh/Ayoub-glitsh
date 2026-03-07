@@ -886,7 +886,7 @@ class About extends Me {
                         <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
-               </td>
+               </td> 
                <!-- <td align="center">
                   <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
                      <picture>
