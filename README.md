@@ -917,15 +917,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://graphacademy.neo4j.com/c/3c767462-8f88-41ea-b7eb-38e3b6d23351/">
-                <img src="certificatin images/Certified Professional Neo4j.png" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
+                <img src="certificatin images/SixSegmaYellowBelt.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://graphacademy.neo4j.com/c/3c767462-8f88-41ea-b7eb-38e3b6d23351/" target="_blank">
-      <strong>Neo4j Certified Professional</strong>,
-    </a>, awarded by <strong>Neo4j GraphAcademy</strong> for successfully completing the Neo4j certification program.
+                   <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing" target="_blank">
+<strong>Six Sigma Yellow Belt</strong>
+</a>, awarded by <strong>6SigmaStudy</strong> for successfully passing the certification exam and being designated as a Six Sigma Yellow Belt Professional.
                </td>
             </tr>
             <tr />
