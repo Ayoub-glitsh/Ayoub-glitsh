@@ -941,7 +941,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://graphacademy.neo4j.com/c/3c767462-8f88-41ea-b7eb-38e3b6d23351/">
+                  <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
@@ -990,7 +990,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://graphacademy.neo4j.com/c/8ee9edbf-376b-484e-a1a4-32113eda745e/">
+                  <a href="https://drive.google.com/file/d/1_1z-O1Y33-7jeEccLDxxAQm_oP7kPc1M/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
