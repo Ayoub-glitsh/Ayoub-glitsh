@@ -1023,9 +1023,8 @@ class About extends Me {
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
                   <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing" target="_blank">
-          <strong>Scrum Fundamentals Certified</strong>
-        </a><br/>
-        Awarded by <strong>SCRUMstudy</strong> for demonstrating foundational knowledge of Scrum methodology and Agile practices.
+                 <strong>Kanban Essentials with AI Certified</strong>
+</a>, awarded by <strong>KanbanStudy</strong> for successfully completing the certification exam and demonstrating knowledge of Kanban principles and workflow management enhanced with AI.
                </td>
             </tr>
             <tr />
