@@ -1016,13 +1016,13 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing">
-                <img src="certificatin images/Scrum Fundamentals Certified.png" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing">
+                <img src="certificatin images/Kanban.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                  <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing" target="_blank">
+                  <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing" target="_blank">
           <strong>Scrum Fundamentals Certified</strong>
         </a><br/>
         Awarded by <strong>SCRUMstudy</strong> for demonstrating foundational knowledge of Scrum methodology and Agile practices.
@@ -1040,7 +1040,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1UokDKu6s9UKPcxLy91oAy8UQNmcET_8E/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
