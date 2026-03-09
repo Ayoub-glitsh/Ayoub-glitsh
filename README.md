@@ -1132,9 +1132,9 @@ class About extends Me {
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                  <a href="https://drive.google.com/file/d/1BTgnSYm0jR-Bzm4PI-LG2vc8wxAxKqNF/view?usp=sharing" target="_blank">
-                 <strong>OKR Fundamentals with AI Certified</strong>
-</a>, awarded by <strong>OKRStudy</strong> for successfully completing the certification exam and demonstrating knowledge in Objectives and Key Results (OKR) with AI integration.
+                <a href="https://drive.google.com/file/d/1BTgnSYm0jR-Bzm4PI-LG2vc8wxAxKqNF/view?usp=sharing" target="_blank">
+  <strong>Marketing Strategy Fundamentals (SCMS-F)</strong>
+</a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam in Marketing Strategy Fundamentals and earning the SCMS-F designation.
                </td>
             </tr>
             <tr />
