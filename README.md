@@ -911,7 +911,162 @@ class About extends Me {
 
 
 
+
+
+
+
+
    
+   <tr height="320px">
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
+                <img src="certificatin images/SixSegmaYellowBelt.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                   <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing" target="_blank">
+<strong>Six Sigma Yellow Belt</strong>
+</a>, awarded by <strong>6SigmaStudy</strong> for successfully passing the certification exam and being designated as a Six Sigma Yellow Belt Professional.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1_1z-O1Y33-7jeEccLDxxAQm_oP7kPc1M/view?usp=sharing">
+                <img src="certificatin images/OKR.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                  <a href="https://drive.google.com/file/d/1_1z-O1Y33-7jeEccLDxxAQm_oP7kPc1M/view?usp=sharing" target="_blank">
+                 <strong>OKR Fundamentals with AI Certified</strong>
+</a>, awarded by <strong>OKRStudy</strong> for successfully completing the certification exam and demonstrating knowledge in Objectives and Key Results (OKR) with AI integration.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1_1z-O1Y33-7jeEccLDxxAQm_oP7kPc1M/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing">
+                <img src="certificatin images/Kanban.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                  <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing" target="_blank">
+                 <strong>Kanban Essentials with AI Certified</strong>
+</a>, awarded by <strong>KanbanStudy</strong> for successfully completing the certification exam and demonstrating knowledge of Kanban principles and workflow management enhanced with AI.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      
+   </tr>
    <tr height="320px">
       <!-- start item -->
       <td>
