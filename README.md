@@ -1175,15 +1175,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing">
-                <img src="certificatin images/Kanban.png" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing">
+                <img src="certificatin images/MRF.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                  <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing" target="_blank">
-                 <strong>Kanban Essentials with AI Certified</strong>
-</a>, awarded by <strong>KanbanStudy</strong> for successfully completing the certification exam and demonstrating knowledge of Kanban principles and workflow management enhanced with AI.
+                <a href="https://drive.google.com/file/d/TON_LIEN_CERTIFICAT/view?usp=sharing" target="_blank">
+  <strong>Marketing Research Fundamentals (SCMR-F)</strong>
+</a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam and demonstrating knowledge of marketing research concepts and analytical techniques.
                </td>
             </tr>
             <tr />
@@ -1198,7 +1198,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
