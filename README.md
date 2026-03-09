@@ -1065,6 +1065,10 @@ class About extends Me {
          </table>
       </td>
       <!-- end item -->
+
+
+
+
       
    </tr>
    <tr height="320px">
@@ -1074,7 +1078,7 @@ class About extends Me {
             <tr>
                <td colspan="4">
                <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
-                <img src="certificatin images/SixSegmaYellowBelt.png" width="220px" /></a></td>
+                <img src="certificatin images/english.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
