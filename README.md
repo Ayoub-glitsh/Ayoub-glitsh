@@ -1077,15 +1077,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
+               <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing">
                 <img src="certificatin images/english.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                   <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing" target="_blank">
-<strong>Six Sigma Yellow Belt</strong>
-</a>, awarded by <strong>6SigmaStudy</strong> for successfully passing the certification exam and being designated as a Six Sigma Yellow Belt Professional.
+                   <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing" target="_blank">
+                <strong>EF SET English Certificate (C1 Advanced)</strong>
+    </a>, awarded by <strong>EF SET</strong> for achieving a score of <strong>61/100</strong>, corresponding to the <strong>C1 Advanced</strong> level according to the CEFR.
                </td>
             </tr>
             <tr />
@@ -1100,7 +1100,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
