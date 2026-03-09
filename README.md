@@ -1181,7 +1181,7 @@ class About extends Me {
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://drive.google.com/file/d/TON_LIEN_CERTIFICAT/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing" target="_blank">
   <strong>Marketing Research Fundamentals (SCMR-F)</strong>
 </a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam and demonstrating knowledge of marketing research concepts and analytical techniques.
                </td>
