@@ -1075,6 +1075,167 @@ class About extends Me {
 
       
    </tr>
+
+
+
+
+   
+   <tr height="320px">
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing">
+                <img src="certificatin images/english.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                   <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing" target="_blank">
+                <strong>EF SET English Certificate (C1 Advanced)</strong>
+    </a>, awarded by <strong>EF SET</strong> for achieving a score of <strong>61/100</strong>, corresponding to the <strong>C1 Advanced</strong> level according to the CEFR.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1BTgnSYm0jR-Bzm4PI-LG2vc8wxAxKqNF/view?usp=sharing">
+                <img src="certificatin images/MSF.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://drive.google.com/file/d/1BTgnSYm0jR-Bzm4PI-LG2vc8wxAxKqNF/view?usp=sharing" target="_blank">
+  <strong>Marketing Strategy Fundamentals (SCMS-F)</strong>
+</a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam in Marketing Strategy Fundamentals and earning the SCMS-F designation.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1BTgnSYm0jR-Bzm4PI-LG2vc8wxAxKqNF/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing">
+                <img src="certificatin images/MRF.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing" target="_blank">
+  <strong>Marketing Research Fundamentals (SCMR-F)</strong>
+</a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam and demonstrating knowledge of marketing research concepts and analytical techniques.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+
+
+
+
+
+
+      
+   </tr>
    <tr height="320px">
       <!-- start item -->
       <td>
