@@ -1243,15 +1243,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing">
+               <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing">
                 <img src="certificatin images/alx_pf.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                   <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing" target="_blank">
-                <strong>EF SET English Certificate (C1 Advanced)</strong>
-    </a>, awarded by <strong>EF SET</strong> for achieving a score of <strong>61/100</strong>, corresponding to the <strong>C1 Advanced</strong> level according to the CEFR.
+                   <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing" target="_blank">
+                <strong>Professional Development Skills for the Digital Age</strong>
+    </a>, awarded by <strong>ALX Professional Foundations</strong> for successfully completing the professional development program focused on essential digital and workplace skills.
                </td>
             </tr>
             <tr />
@@ -1266,7 +1266,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1nSL4TW_1-oMzSnw3yWfyiZ7nD6ozwLkA/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
