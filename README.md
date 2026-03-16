@@ -1293,13 +1293,13 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1BTgnSYm0jR-Bzm4PI-LG2vc8wxAxKqNF/view?usp=sharing">
-                <img src="certificatin images/MSF.png" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1p_huFATEu0hJHVj1a-K3owTI2_Iq_UyZ/view?usp=sharing">
+                <img src="certificatin images/BAF.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://drive.google.com/file/d/1BTgnSYm0jR-Bzm4PI-LG2vc8wxAxKqNF/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1p_huFATEu0hJHVj1a-K3owTI2_Iq_UyZ/view?usp=sharing" target="_blank">
   <strong>Marketing Strategy Fundamentals (SCMS-F)</strong>
 </a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam in Marketing Strategy Fundamentals and earning the SCMS-F designation.
                </td>
@@ -1316,7 +1316,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1BTgnSYm0jR-Bzm4PI-LG2vc8wxAxKqNF/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1p_huFATEu0hJHVj1a-K3owTI2_Iq_UyZ/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
