@@ -1401,15 +1401,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing">
+               <a href="https://drive.google.com/file/d/1Wq1QGDORIH9zdsD27CwEC66sVyHbJdDa/view?usp=sharing">
                 <img src="certificatin images/NA.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                   <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing" target="_blank">
-                <strong>Professional Development Skills for the Digital Age</strong>
-    </a>, awarded by <strong>ALX Professional Foundations</strong> for successfully completing the professional development program focused on essential digital and workplace skills.
+                   <a href="https://drive.google.com/file/d/1Wq1QGDORIH9zdsD27CwEC66sVyHbJdDa/view?usp=sharing" target="_blank">
+                <strong>Negotiation Associate (NCN-A)</strong>
+</a>, awarded by <strong>NGstudy</strong> for successfully passing the certification exam in Negotiation and earning the Negotiation Associate designation.
                </td>
             </tr>
             <tr />
@@ -1424,7 +1424,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1Wq1QGDORIH9zdsD27CwEC66sVyHbJdDa/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
