@@ -1300,8 +1300,8 @@ class About extends Me {
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
                 <a href="https://drive.google.com/file/d/1p_huFATEu0hJHVj1a-K3owTI2_Iq_UyZ/view?usp=sharing" target="_blank">
-  <strong>Marketing Strategy Fundamentals (SCMS-F)</strong>
-</a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam in Marketing Strategy Fundamentals and earning the SCMS-F designation.
+ <strong>Business Analysis Fundamentals with AI Certified (BAFC)</strong>
+    </a>, awarded by <strong>BA Learning</strong> for successfully passing the certification exam in Business Analysis Fundamentals with AI.
                </td>
             </tr>
             <tr />
