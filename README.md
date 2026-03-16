@@ -1349,8 +1349,8 @@ class About extends Me {
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
                 <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing" target="_blank">
-  <strong>Marketing Research Fundamentals (SCMR-F)</strong>
-</a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam and demonstrating knowledge of marketing research concepts and analytical techniques.
+<strong>Corporate Sales Fundamentals (SCCS-F)</strong>
+    </a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam in Corporate Sales Fundamentals, granted on <strong>September 25, 2025</strong>.
                </td>
             </tr>
             <tr />
