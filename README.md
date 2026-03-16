@@ -1386,6 +1386,163 @@ class About extends Me {
          </table>
       </td>
       <!-- end item -->
+
+
+
+
+
+
+
+      
+   </tr>
+   <tr height="320px">
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing">
+                <img src="certificatin images/alx_pf.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                   <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing" target="_blank">
+                <strong>Professional Development Skills for the Digital Age</strong>
+    </a>, awarded by <strong>ALX Professional Foundations</strong> for successfully completing the professional development program focused on essential digital and workplace skills.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1p_huFATEu0hJHVj1a-K3owTI2_Iq_UyZ/view?usp=sharing">
+                <img src="certificatin images/BAF.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://drive.google.com/file/d/1p_huFATEu0hJHVj1a-K3owTI2_Iq_UyZ/view?usp=sharing" target="_blank">
+ <strong>Business Analysis Fundamentals with AI Certified (BAFC)</strong>
+    </a>, awarded by <strong>BA Learning</strong> for successfully passing the certification exam in Business Analysis Fundamentals with AI.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1p_huFATEu0hJHVj1a-K3owTI2_Iq_UyZ/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing">
+                <img src="certificatin images/CSF.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing" target="_blank">
+<strong>Corporate Sales Fundamentals (SCCS-F)</strong>
+    </a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam in Corporate Sales Fundamentals, granted on <strong>September 25, 2025</strong>.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
       
    </tr>
 </table>
