@@ -1342,13 +1342,13 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing">
-                <img src="certificatin images/MRF.png" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing">
+                <img src="certificatin images/CSF.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing" target="_blank">
   <strong>Marketing Research Fundamentals (SCMR-F)</strong>
 </a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam and demonstrating knowledge of marketing research concepts and analytical techniques.
                </td>
@@ -1365,7 +1365,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1Nxj5ef0NKJX9SA6APW0YBvrFxiSihDvI/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
