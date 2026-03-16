@@ -1499,15 +1499,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing">
+               <a href="https://drive.google.com/file/d/1353nLBk1Kt8VOIex8wuxnFMRK1c6yI5-/view?usp=sharing">
                 <img src="certificatin images/TCF.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing" target="_blank">
-<strong>Corporate Sales Fundamentals (SCCS-F)</strong>
-    </a>, awarded by <strong>SMstudy</strong> for successfully passing the certification exam in Corporate Sales Fundamentals, granted on <strong>September 25, 2025</strong>.
+                <a href="https://drive.google.com/file/d/1353nLBk1Kt8VOIex8wuxnFMRK1c6yI5-/view?usp=sharing" target="_blank">
+<strong>TCF – Test de Connaissance du Français (Tout public)</strong>
+</a>, awarded by <strong>France Éducation International</strong> for demonstrating French language proficiency with an overall level of <strong>B2</strong> according to the CEFR.
                </td>
             </tr>
             <tr />
@@ -1522,7 +1522,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1V6tp6oyjlFte6Df6x_53IaayJBwrsgbK/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1353nLBk1Kt8VOIex8wuxnFMRK1c6yI5-/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
