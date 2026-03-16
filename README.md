@@ -1402,7 +1402,7 @@ class About extends Me {
             <tr>
                <td colspan="4">
                <a href="https://drive.google.com/file/d/1P79DboO-iEB-2LO12h3ztpO63b7wnP9Y/view?usp=sharing">
-                <img src="certificatin images/alx_pf.png" width="220px" /></a></td>
+                <img src="certificatin images/NA.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
