@@ -1546,6 +1546,17 @@ class About extends Me {
 
 ---
 
+<br/>
+<br/>
+<br/>
+
+<!--
+| Organization / Company | Position | Field | Status | Start Date | End Date | Duration |
+|------------------------|----------|-------|--------|------------|----------|----------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/JPMorgan_Chase.svg" width="80" /> JPMorgan Chase & Co. | Virtual Intern | Finance, Data & Software Engineering | In Progress | Jan 2026 | Present | Ongoing |
+| <img src="https://img.icons8.com/color/48/000000/company.png" width="20"/> AgRaj Technologies | Founder | Cloud, Cybersecurity, AI, Web Development | Building Stage | May 2025 | Present | Ongoing |
+| <img src="https://img.icons8.com/color/48/000000/student-male.png" width="20"/> ISTA | Student Developer | Full-Stack Web Development | Ongoing Learning | Sep 2024 | Present | Ongoing |
+
 
 
 
