@@ -723,7 +723,7 @@ class About extends Me {
 | <div align="center"><img src="assets/256.svg" width="50" alt="Audio"/><br/><strong>roc-streaming</strong><br/><small>(roc-toolkit)</small></div> | Debug & Technical Analysis | Investigated an issue related to the **multitrack packetizer**, contributed to discussions about automatic packet size calculation | 🔄 In Progress | [View Issue](https://github.com/roc-streaming/roc-toolkit/issues/821) |
 | <div align="center"><img src="https://cdn.simpleicons.org/securityscorecard/000000" width="50" alt="Security"/><br/><strong>agentic_security</strong></div> | Frontend & UI | Migrated UI to **Tailwind CSS v4**, updated CDN links, improved visual consistency | 🔄 In Progress | [View Pull Request](https://github.com/msoedov/agentic_security/pull/278) |
 | <div align="center"><img src="https://avatars.githubusercontent.com/u/153841985?s=200&v=4" width="50" alt="Security"/><br/><strong>SpeedyApply</strong></div> | Documentation & Maintenance | Integrated 3 new 2026 SWE opportunities, synchronized job counts across all master files, and refined table entries for Palo Alto and Mechanize. | 🔄 In Progress | [View Pull Request](https://github.com/speedyapply/2026-SWE-College-Jobs/pulls) |
-
+| <div align="center"><img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" width="50" alt="Pug"/><br/><strong>pugjs/pug</strong></div> | Security Fix | Patched **prototype pollution gadgets** in the AST walker, code generator, linker and filters — preventing escalation to RCE via `Object.prototype` injection | ✅ Completed | [View Pull Request](https://github.com/pugjs/pug/pull/3470) |
 
 
 
