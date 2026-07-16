@@ -1591,7 +1591,7 @@ class About extends Me {
 
 <tr>
       <td>
-        <img src="https://img.icons8.com/color/48/freelance.png" width="22" alt="Jobbers">
+        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206117/jobbers-logo-web_so8snc.png" width="170" alt="Jobbers">
         <strong> Jobbers</strong>
       </td>
       <td>Full-Stack Web Developer & Designer</td>
