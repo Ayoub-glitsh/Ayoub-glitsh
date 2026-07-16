@@ -1653,7 +1653,7 @@ class About extends Me {
 
 <tr>
   <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/Quantium_logo.svg"
+    <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784209079/5143d90f-4c8c-439a-8113-5532a4d06b2c_medium_curaz6.jpg"
          alt="Quantium"
          width="90"><br>
     <strong>Quantium</strong>
