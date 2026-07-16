@@ -1615,6 +1615,8 @@ class About extends Me {
       <td>1 Month</td>
 </tr>
 
+
+
 <tr>
       <td align="center" >
         <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206901/malt-svgrepo-com_zmhg0l.svg" width="72" alt="Malt"> <br/>
@@ -1626,7 +1628,27 @@ class About extends Me {
       <td>Jul 2025</td>
       <td>Dec 2025</td>
       <td>6 Months</td>
-    </tr>
+</tr>
+
+
+
+
+
+
+<tr>
+  <td align="center">
+    <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784208742/glossy-jpmorgan-chase-bank-logo-rounded-square-financial-icon-free-png_mpuutk.webp"
+         alt="JPMorgan Chase & Co."
+         width="90"><br>
+    <strong>JPMorgan Chase &amp; Co.</strong>
+  </td>
+  <td align="center">Software Engineer Intern</td>
+  <td align="center">Software Engineering</td>
+  <td align="center">✅ Completed</td>
+  <td align="center">Apr 2026</td>
+  <td align="center">Apr 2026</td>
+  <td align="center">1 Month</td>
+</tr>
 
   </tbody>
 </table>
