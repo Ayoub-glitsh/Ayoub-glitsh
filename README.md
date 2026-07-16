@@ -1669,18 +1669,37 @@ class About extends Me {
 
 <tr>
   <td align="center">
-    <img src="https://your-logo-url.com/3lm-solutions-logo.png"
+    <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784209378/download_cybkju.jpg"
          alt="3LM Solutions"
          width="60"><br>
     <strong>3LM Solutions</strong>
   </td>
   <td align="center">AI Integration Developer Intern</td>
   <td align="center">Artificial Intelligence & Software Development</td>
-  <td align="center">✅ Completed</td>
+  <td align="center">🚀 In Progress</td>
   <td align="center">Jul 2026</td>
   <td align="center">Jul 2026</td>
   <td align="center">1 Month</td>
 </tr>
+
+
+
+<tr>
+  <td align="center">
+    <img src="https://your-logo-url.com/inveneo-logo.png"
+         alt="INVENEO"
+         width="60"><br>
+    <strong>INVENEO</strong>
+  </td>
+  <td align="center">WordPress Integrator &amp; Developer Intern</td>
+  <td align="center">WordPress Development</td>
+  <td align="center">🚀 In Progress</td>
+  <td align="center">Jun 2026</td>
+  <td align="center">Present</td>
+  <td align="center">2+ Months</td>
+</tr>
+
+
 
   </tbody>
 </table>
