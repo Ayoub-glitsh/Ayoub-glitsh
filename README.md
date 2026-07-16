@@ -1617,7 +1617,7 @@ class About extends Me {
 
 <tr>
       <td>
-        <img src="https://img.icons8.com/color/48/freelance.png" width="22" alt="Malt">
+        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206901/malt-svgrepo-com_zmhg0l.svg" width="72" alt="Malt">
         <strong> Malt</strong>
       </td>
       <td>Front-End Developer & Designer</td>
