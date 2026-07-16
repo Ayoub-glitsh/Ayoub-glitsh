@@ -1577,8 +1577,8 @@ class About extends Me {
   <tbody>
 
    <tr>
-      <td>
-        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784205711/Logo_ministere_fr_dark-1_gzahcr.png" width="170" alt="Ministry">
+      <td align="center" >
+        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784205711/Logo_ministere_fr_dark-1_gzahcr.png" width="170" alt="Ministry"> <br/>
         <strong> Ministry of Tourism & Crafts</strong>
       </td>
       <td>Full-Stack Web Developer Intern</td>
@@ -1590,8 +1590,8 @@ class About extends Me {
     </tr>
 
 <tr>
-      <td>
-        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206117/jobbers-logo-web_so8snc.png" width="170" alt="Jobbers">
+      <td  align="center" >
+        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206117/jobbers-logo-web_so8snc.png" width="170" alt="Jobbers"> <br/>
         <strong> Jobbers</strong>
       </td>
       <td>Full-Stack Web Developer & Designer</td>
@@ -1603,9 +1603,9 @@ class About extends Me {
 </tr>
 
 <tr>
-      <td>
-        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206363/Skyscanner_Icon_2020_rosqca.svg" width="70" alt="Skyscanner">Skyscanner
-      <!--  <strong> Skyscanner</strong> -->
+      <td align="center" >
+        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206363/Skyscanner_Icon_2020_rosqca.svg" width="70" alt="Skyscanner"> <br/>
+        <strong> Skyscanner</strong>
       </td>
       <td>Frontend Software Engineer (Virtual Internship)</td>
       <td>Frontend Development</td>
@@ -1616,8 +1616,8 @@ class About extends Me {
 </tr>
 
 <tr>
-      <td>
-        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206901/malt-svgrepo-com_zmhg0l.svg" width="72" alt="Malt">
+      <td align="center" >
+        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206901/malt-svgrepo-com_zmhg0l.svg" width="72" alt="Malt"> <br/>
         <strong> Malt</strong>
       </td>
       <td>Front-End Developer & Designer</td>
