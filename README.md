@@ -1604,7 +1604,8 @@ class About extends Me {
 
 <tr>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Skyscanner_Logo_2020.svg" width="90" alt="Skyscanner">
+        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784206363/Skyscanner_Icon_2020_rosqca.svg" width="70" alt="Skyscanner">Skyscanner
+      <!--  <strong> Skyscanner</strong> -->
       </td>
       <td>Frontend Software Engineer (Virtual Internship)</td>
       <td>Frontend Development</td>
