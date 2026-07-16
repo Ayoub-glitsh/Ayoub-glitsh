@@ -1578,7 +1578,7 @@ class About extends Me {
 
    <tr>
       <td>
-        <img src="https://img.icons8.com/color/48/government.png" width="22" alt="Ministry">
+        <img src="https://imgur.com/a/6zq5grc.png" width="22" alt="Ministry">
         <strong> Ministry of Tourism & Crafts</strong>
       </td>
       <td>Full-Stack Web Developer Intern</td>
