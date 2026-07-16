@@ -1650,6 +1650,22 @@ class About extends Me {
   <td align="center">1 Month</td>
 </tr>
 
+
+<tr>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/Quantium_logo.svg"
+         alt="Quantium"
+         width="90"><br>
+    <strong>Quantium</strong>
+  </td>
+  <td align="center">Software Engineer Intern</td>
+  <td align="center">Software Engineering</td>
+  <td align="center">✅ Completed</td>
+  <td align="center">Jul 2026</td>
+  <td align="center">Jul 2026</td>
+  <td align="center">1 Month</td>
+</tr>
+
   </tbody>
 </table>
 
