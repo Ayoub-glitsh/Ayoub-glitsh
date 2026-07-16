@@ -1578,7 +1578,7 @@ class About extends Me {
 
    <tr>
       <td>
-        <img src="https://imgur.com/a/6zq5grc.png" width="22" alt="Ministry">
+        <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784205711/Logo_ministere_fr_dark-1_gzahcr.png" width="170" alt="Ministry">
         <strong> Ministry of Tourism & Crafts</strong>
       </td>
       <td>Full-Stack Web Developer Intern</td>
