@@ -1666,6 +1666,22 @@ class About extends Me {
   <td align="center">1 Month</td>
 </tr>
 
+
+<tr>
+  <td align="center">
+    <img src="https://your-logo-url.com/3lm-solutions-logo.png"
+         alt="3LM Solutions"
+         width="60"><br>
+    <strong>3LM Solutions</strong>
+  </td>
+  <td align="center">AI Integration Developer Intern</td>
+  <td align="center">Artificial Intelligence & Software Development</td>
+  <td align="center">✅ Completed</td>
+  <td align="center">Jul 2026</td>
+  <td align="center">Jul 2026</td>
+  <td align="center">1 Month</td>
+</tr>
+
   </tbody>
 </table>
 
