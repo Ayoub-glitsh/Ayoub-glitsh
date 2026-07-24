@@ -1684,9 +1684,9 @@ class About extends Me {
 
 <tr>
   <td align="center">
-    <img src="https://your-logo-url.com/inveneo-logo.png"
+    <img src="https://res.cloudinary.com/wemlub7x/image/upload/v1784902581/inveneomorocco_logo_sfrblc.jpg"
          alt="INVENEO"
-         width="60"><br>
+         width="80"><br>
     <strong>INVENEO</strong>
   </td>
   <td align="center">WordPress Integrator &amp; Developer Intern</td>
