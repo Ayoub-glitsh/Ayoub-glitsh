@@ -1649,15 +1649,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing">
-                <img src="certificatin images/Kanban.png" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1SNWO97wt_13E5gURtt8Hwbd4-NZ1ybHk/view?usp=drive_link" target="_blank">
+                <img src="https://i.imgur.com/UgjuG3u.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                  <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing" target="_blank">
-                 <strong>Kanban Essentials with AI Certified</strong>
-</a>, awarded by <strong>KanbanStudy</strong> for successfully completing the certification exam and demonstrating knowledge of Kanban principles and workflow management enhanced with AI.
+                   <a href="https://drive.google.com/file/d/1SNWO97wt_13E5gURtt8Hwbd4-NZ1ybHk/view?usp=drive_link" target="_blank">
+<strong>Advanced Software Engineering Job Simulation</strong>
+</a>, awarded by <strong>Walmart Global Tech (Forage)</strong> for successfully completing practical tasks including advanced data structures, software architecture, relational database design, and data munging.
                </td>
             </tr>
             <tr />
@@ -1672,7 +1672,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1W2YVlOD9QQRnt4v7lfF4gDbgiyNpuB8q/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1SNWO97wt_13E5gURtt8Hwbd4-NZ1ybHk/view?usp=drive_link">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
