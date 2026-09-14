@@ -1551,15 +1551,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
-                <img src="certificatin images/SixSegmaYellowBelt.png" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1PyFjyLZsLUODsTNZ8nr-xiaLjzSMMdWi/view?usp=drive_link" target="_blank">
+                <img src="https://i.imgur.com/TIX7X3S.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                   <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing" target="_blank">
-<strong>Six Sigma Yellow Belt</strong>
-</a>, awarded by <strong>6SigmaStudy</strong> for successfully passing the certification exam and being designated as a Six Sigma Yellow Belt Professional.
+                   <a href="https://drive.google.com/file/d/1PyFjyLZsLUODsTNZ8nr-xiaLjzSMMdWi/view?usp=drive_link" target="_blank">
+<strong>Software Engineering Job Simulation</strong>
+</a>, awarded by <strong>Forage</strong> for successfully completing practical tasks including local environment setup, data processing, Dash applications, and test automation[cite: 1].
                </td>
             </tr>
             <tr />
