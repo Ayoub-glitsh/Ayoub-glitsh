@@ -1600,15 +1600,15 @@ class About extends Me {
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://drive.google.com/file/d/1_1z-O1Y33-7jeEccLDxxAQm_oP7kPc1M/view?usp=sharing">
-                <img src="certificatin images/OKR.png" width="220px" /></a></td>
+               <a href="https://drive.google.com/file/d/1q4JYnDPhNnXDy9oi70gqe0tkbv5xwgk3/view?usp=drive_link" target="_blank">
+                <img src="https://i.imgur.com/wwNgRl6.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                  <a href="https://drive.google.com/file/d/1_1z-O1Y33-7jeEccLDxxAQm_oP7kPc1M/view?usp=sharing" target="_blank">
-                 <strong>OKR Fundamentals with AI Certified</strong>
-</a>, awarded by <strong>OKRStudy</strong> for successfully completing the certification exam and demonstrating knowledge in Objectives and Key Results (OKR) with AI integration.
+                   <a href="https://drive.google.com/file/d/1q4JYnDPhNnXDy9oi70gqe0tkbv5xwgk3/view?usp=drive_link" target="_blank">
+<strong>Front-End Software Engineering Job Simulation</strong>
+</a>, awarded by <strong>Skyscanner (Forage)</strong> for successfully completing practical tasks including creating a Backpack React Web App.
                </td>
             </tr>
             <tr />
@@ -1623,7 +1623,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1_1z-O1Y33-7jeEccLDxxAQm_oP7kPc1M/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1q4JYnDPhNnXDy9oi70gqe0tkbv5xwgk3/view?usp=drive_link">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
