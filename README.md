@@ -1699,6 +1699,164 @@ class About extends Me {
 
       
    </tr>
+
+
+
+   
+   <tr height="320px">
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1hXWjDmlZU8RHSYQ9gxjT-SxXGVzXYZ5A/view?usp=sharing" target="_blank">
+                <img src="https://i.imgur.com/eeVstEB.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                   <a href="https://drive.google.com/file/d/1hXWjDmlZU8RHSYQ9gxjT-SxXGVzXYZ5A/view?usp=sharing" target="_blank">
+<strong>Introduction to Critical Infrastructure Protection (ICIP)</strong>
+</a>, awarded by <strong>OPSWAT Academy</strong> for successfully completing the standards and requirements of the ICIP program.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1hXWjDmlZU8RHSYQ9gxjT-SxXGVzXYZ5A/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1q4JYnDPhNnXDy9oi70gqe0tkbv5xwgk3/view?usp=drive_link" target="_blank">
+                <img src="https://i.imgur.com/wwNgRl6.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                   <a href="https://drive.google.com/file/d/1q4JYnDPhNnXDy9oi70gqe0tkbv5xwgk3/view?usp=drive_link" target="_blank">
+<strong>Front-End Software Engineering Job Simulation</strong>
+</a>, awarded by <strong>Skyscanner (Forage)</strong> for successfully completing practical tasks including creating a Backpack React Web App.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1q4JYnDPhNnXDy9oi70gqe0tkbv5xwgk3/view?usp=drive_link">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://drive.google.com/file/d/1SNWO97wt_13E5gURtt8Hwbd4-NZ1ybHk/view?usp=drive_link" target="_blank">
+                <img src="https://i.imgur.com/UgjuG3u.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                   <a href="https://drive.google.com/file/d/1SNWO97wt_13E5gURtt8Hwbd4-NZ1ybHk/view?usp=drive_link" target="_blank">
+<strong>Advanced Software Engineering Job Simulation</strong>
+</a>, awarded by <strong>Walmart Global Tech (Forage)</strong> for successfully completing practical tasks including advanced data structures, software architecture, relational database design, and data munging.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1SNWO97wt_13E5gURtt8Hwbd4-NZ1ybHk/view?usp=drive_link">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+
+
+
+
+      
+   </tr>
 </table>
 
 ---
