@@ -1559,7 +1559,7 @@ class About extends Me {
                <td width="220px" height="110px" vertical-align="top" colspan="4">
                    <a href="https://drive.google.com/file/d/1PyFjyLZsLUODsTNZ8nr-xiaLjzSMMdWi/view?usp=drive_link" target="_blank">
 <strong>Software Engineering Job Simulation</strong>
-</a>, awarded by <strong>Forage</strong> for successfully completing practical tasks including local environment setup, data processing, Dash applications, and test automation[cite: 1].
+</a>, awarded by <strong>Forage</strong> for successfully completing practical tasks including local environment setup, data processing, Dash applications, and test automation.
                </td>
             </tr>
             <tr />
@@ -1574,7 +1574,7 @@ class About extends Me {
                   </a>
                </td> -->
                <td align="center">
-                  <a href="https://drive.google.com/file/d/1cizamO3-Kcu9nXtyZ0sgVJVr5I7SzxFI/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/1PyFjyLZsLUODsTNZ8nr-xiaLjzSMMdWi/view?usp=drive_link">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
