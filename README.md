@@ -1768,7 +1768,7 @@ class About extends Me {
    <td width="220px" height="110px" vertical-align="top" colspan="4">
        <a href="https://drive.google.com/file/d/1kowJ-DjWq1J0u-LfhwHKKct3xDtgIae1/view?usp=sharing" target="_blank">
 <strong>AI Automations Make Zapier</strong>
-</a>, awarded by <strong>FreeAcademy.ai</strong> for successfully completing the standards and requirements of the program (Verified Credential: FA-2026-AAMZ-TP217V)[cite: 1].
+</a>, awarded by <strong>FreeAcademy.ai</strong> for successfully completing the standards and requirements of the program.
    </td>
 </tr>
 <tr />
@@ -1784,6 +1784,54 @@ class About extends Me {
                </td> -->
                <td align="center">
                   <a href="https://drive.google.com/file/d/1kowJ-DjWq1J0u-LfhwHKKct3xDtgIae1/view?usp=sharing">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./certification icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+   <td colspan="4">
+   <a href="https://drive.google.com/file/d/1sXOb0gQF3U8_HE4w0fQexA0T0AhQWC5z/view?usp=sharing" target="_blank">
+    <img src="https://i.imgur.com/ylHRUxs.png" width="220px" /></a></td>
+</tr>
+<tr />
+<tr>
+   <td width="220px" height="110px" vertical-align="top" colspan="4">
+       <a href="https://drive.google.com/file/d/1sXOb0gQF3U8_HE4w0fQexA0T0AhQWC5z/view?usp=sharing" target="_blank">
+<strong>AI Email Automation</strong>
+</a>, awarded by <strong>FreeAcademy.ai</strong> for successfully completing the standards and requirements of the program.
+   </td>
+</tr>
+<tr />
+               <!-- <td align="center">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td> -->
+               <td align="center">
+                  <a href="https://drive.google.com/file/d/1sXOb0gQF3U8_HE4w0fQexA0T0AhQWC5z/view?usp=sharing">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./certification icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./certification icons/icon-pdf-dark.svg" />
