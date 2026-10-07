@@ -1761,7 +1761,7 @@ class About extends Me {
             <tr>
    <td colspan="4">
    <a href="https://drive.google.com/file/d/1hXWjDmlZU8RHSYQ9gxjT-SxXGVzXYZ5A/view?usp=sharing" target="_blank">
-    <img src="https://imgur.com/a/h26GSeW.png" width="220px" /></a></td>
+    <img src="https://i.imgur.com/at5wdu0.png" width="220px" /></a></td>
 </tr>
 <tr />
 <tr>
